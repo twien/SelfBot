@@ -22,7 +22,7 @@ else:
     import urllib.parse
 
 cl = LINETCR.LINE()
-cl.login(token="")
+cl.login(token="EpEtMB0g92n9mwfM99z6.rv7/OuvOOFlez2DujUT/vG.idUQnI5e2SE37fZO2X5kOLeXcCjyV0fUYNvJuHMQT/4=")
 cl.loginResult()
 
 print "==================[Login Success]==================="
@@ -138,7 +138,7 @@ helpmed ="""╔═════════════════
 """
 
 mid = cl.getProfile().mid
-Bots=[mid]
+Bots=["u455efea14568a1f2c467675426eb7e56"]
 
 wait = {
     "likeOn":True,
@@ -163,7 +163,7 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cNames":"ই͜✿ই͜Muhammad ই͜Fahmi ই͜Ridhani✿",
+    "cNames":"ই͜✿ই͜yogi✿",
     "cNames":"",
     "blacklist":{},
     "wblacklist":False,
